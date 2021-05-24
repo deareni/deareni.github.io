@@ -13,10 +13,10 @@ en: &DEFAULT_EN
   nav:
     #- title: "Services"
     #  section: services
-    - title: "Portfolio"
+    - title: "Posts"
       section: portfolio
-    - title: "About"
-      section: timeline
+    #- title: "Pur Favorites"
+    #  section: timeline
     #- title: "Team"
     #  section: team
     - title: "Contact"
