@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Home!
-    text: Eni + Nova
-    button: Ongoing
+    title: Our Home
+    text: 
+    button: Read
     buttonlink: "#portfolio"
 
   services:
