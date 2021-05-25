@@ -38,8 +38,8 @@ en: &DEFAULT_EN
     closebutton: "Close Page"
 
   timeline:
-    title: "Simple Pleasures"
-    text: "Unorderly"
+    title: "What makes us happy"
+    text: "these days"
     section: timeline
     # left is the default
     #start_align: "left"
