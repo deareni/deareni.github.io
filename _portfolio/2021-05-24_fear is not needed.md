@@ -1,12 +1,12 @@
 ---
-title: Fear is not needed. 
+title: Fear is Unnecessary 
 subtitle: Idea
 image: 
 alt: 
 
 caption:
-  title: Fear is not needed. 
-  subtitle: idea
+  title: Fear is Unnecessary. 
+  subtitle: Idea
   thumbnail: 
 ---
 
