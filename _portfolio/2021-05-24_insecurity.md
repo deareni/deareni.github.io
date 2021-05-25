@@ -1,12 +1,12 @@
 ---
 title: 생각
-subtitle: Echo
+subtitle: Idea
 image: 
 
 
 caption:
-  title: 나의 불안
-  subtitle: Echo
+  title: 생각
+  subtitle: Idea
   thumbnail: 
 ---
 
@@ -18,6 +18,6 @@ caption:
 
 {:.list-inline}
 - Date: May 24, 2021
-- Category: Echo
+- Category: Idea
 - Tag: Parenting
 
