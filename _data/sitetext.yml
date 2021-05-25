@@ -35,7 +35,7 @@ en: &DEFAULT_EN
     title: "Posts"
     text: "my notes"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close Post"
 
   timeline:
     title: "Hidden Treasures"
