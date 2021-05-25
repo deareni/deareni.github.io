@@ -1,11 +1,11 @@
 ---
-title: Simply Love
+title: 소박한 육아
 subtitle: echo
 image: 
 alt: 
 
 caption:
-  title: Simply love
+  title: 소박한 육아
   subtitle: Echo
   thumbnail: 
 ---
@@ -27,6 +27,7 @@ f. they are <span style="font-family:Papyrus">DEEPLY KNOWN</span> and instinctiv
 (누군가가 너를 정말로 알아주었다고 느끼기를. 정말로 사랑받는 것이 무엇인지 알기를. 그래서 나중에 너도 그 사랑을 알아보고, 너도 기꺼이 줄 수 있게 되기를.)
 </span>
 
+(한글로 쓴 글은 한글 제목을 달려고 번역을 했는데, Simplicity Prenting을 소박한 육아라고 표현해도 될런지. 그래서 소박하다의 어감이 좋아서 그냥 쓰련다.)
 
 <span style="color:green"> </span>
 <span style="font-family:Papyrus"></span>
