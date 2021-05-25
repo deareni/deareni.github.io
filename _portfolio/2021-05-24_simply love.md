@@ -6,7 +6,7 @@ alt: Shirts on a hanger
 
 caption:
   title: simple love
-  subtitle: Illustration
+  subtitle: Echo
   thumbnail: /assets/img/portfolio/05-thumbnail.jpg
 ---
 
