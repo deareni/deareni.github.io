@@ -1,11 +1,11 @@
 ---
-title: Fear is Unnecessary 
+title: Do Not Report
 subtitle: Idea
 image: 
 alt: 
 
 caption:
-  title: Fear is Unnecessary. 
+  title: Do Not Report 
   subtitle: Idea
   thumbnail: 
 ---
