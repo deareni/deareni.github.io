@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Simple Life
     text: 
-    button: Read
+    button: Posts
     buttonlink: "#portfolio"
 
   services:
