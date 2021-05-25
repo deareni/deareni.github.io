@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Chez Nous
+    title: Simple Life
     text: 
     button: Read
     buttonlink: "#portfolio"
