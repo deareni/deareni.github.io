@@ -1,6 +1,6 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Simple Love
+subtitle: echo
 image: /assets/img/portfolio/05-thumbnail.jpg
 alt: Shirts on a hanger
 
