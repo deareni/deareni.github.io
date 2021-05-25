@@ -1,11 +1,11 @@
 ---
-title: 두려움
+title: 두려움 없이 가르치기
 subtitle: Idea
 image: 
 alt: 
 
 caption:
-  title: 두려움
+  title: 두려움 없이 가르치기
   subtitle: Idea
   thumbnail: 
 ---
