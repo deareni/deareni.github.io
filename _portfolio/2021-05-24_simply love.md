@@ -1,13 +1,13 @@
 ---
-title: Simple Love
+title: Simply Love
 subtitle: echo
-image: /assets/img/portfolio/05-thumbnail.jpg
-alt: Shirts on a hanger
+image: 
+alt: 
 
 caption:
-  title: simple love
+  title: Simply love
   subtitle: Echo
-  thumbnail: /assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: 
 ---
 
 <span style="color:green"> 
