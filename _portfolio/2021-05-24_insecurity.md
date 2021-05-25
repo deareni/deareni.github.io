@@ -1,13 +1,13 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: /assets/img/portfolio/05-thumbnail.jpg
-alt: Shirts on a hanger
+title: 생각
+subtitle: Echo
+image: 
+
 
 caption:
   title: 나의 불안
-  subtitle: Illustration
-  thumbnail: /assets/img/portfolio/05-thumbnail.jpg
+  subtitle: Echo
+  thumbnail: 
 ---
 fear, insecurity, anger, sorrow.... 나에게 오는 이런 감정들.
 
@@ -19,6 +19,6 @@ Simplicity Parenting 자료들을 읽어보니 하고싶은 말이 많아진다.
 
 {:.list-inline}
 - Date: May 24, 2021
-- Client: Threads
 - Category: Echo
+- Tag: Parenting
 
