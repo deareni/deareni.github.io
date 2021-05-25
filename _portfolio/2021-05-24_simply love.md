@@ -11,7 +11,7 @@ caption:
 ---
 
 <span style="color:green"> 
-**"Simplicity Parenting,"** Kim John Payne, says (그리고 나의 restatement)
+**"Simplicity Parenting,"** Kim John Payne, says (그리고 나의 restatement)<br>
 imagine how <span style="font-family:Papyrus">SECURE</span> your children willl feel <span style="font-family:Papyrus">KNOWING</span> that... <br>
 a. when something is really "up", when they don't feel right, they will be <span style="font-family:Papyrus">NOTICED</span> and <span style="font-family:Papyrus">RESPONDED</span>. 
 (네가 평소같지 않게 느끼는 것도... 알아차리고 있단다)<br>
