@@ -1,11 +1,11 @@
 ---
-title: 생각
+title: 하고싶은 말들
 subtitle: Idea
 image: 
 
 
 caption:
-  title: 생각
+  title: 하고싶은 말들
   subtitle: Idea
   thumbnail: 
 ---
